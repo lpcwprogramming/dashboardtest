@@ -16,7 +16,7 @@ d3.json(`samples.json`).then((data) => {
   // Update Page on New Input
   function updatePage(meta, samp) {
     // Select Sample Metadata
-    var sampleData = d3.select("#sample-metadata");
+    var sampleData = d3.select(`#sample-metadata`);
 
     // Clear HTML
     sampleData.html("");
