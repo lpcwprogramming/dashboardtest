@@ -20,5 +20,30 @@ d3.json(`samples.json`).then((data) => {
 
     // Clear HTML
     sampleData.html("");
+  }
+  //Function To Set Starting Page
+  function init() {
+    // Get First Metadata
+    var firstMetadata = data.metadata[0];
 
-  };
+    // Get First Sample
+    var firstSample = data.samples[0];
+
+    // Set Starting Page
+    updatePage(firstMetadata, firstSample);
+
+    // Update Page on New Input
+    d3.selectAll("#selDataset").on("change", function () {
+      // Update Metadata
+      var meta = data.metadata.find((d) => d.id == this.value);
+
+      // Update Sample
+      var samp = data.samples.find((d) => d.id == this.value);
+
+      // Deploy Function
+      updatePage(meta, samp);
+    });
+  }
+  // Deploy Functon
+  init();
+});
