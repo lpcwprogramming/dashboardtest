@@ -23,8 +23,7 @@
   ],
   "metadata": [
     {
-      "driverRef": "Ricciardo",
-      "number": 3.0,
+      "number": 3,
       "code": "RIC",
       "forename": "Daniel",
       "surname": "Ricciardo",
@@ -32,8 +31,7 @@
       "nationality": "Australian"
     },
     {
-      "driverRef": "Norris",
-      "number": 4.0,
+      "number": 4,
       "code": "NOR",
       "forename": "Lando",
       "surname": "Norris",
@@ -41,8 +39,7 @@
       "nationality": "British"
     },
     {
-      "driverRef": "Vettel",
-      "number": 5.0,
+      "number": 5,
       "code": "VET",
       "forename": "Sebastian",
       "surname": "Vettel",
@@ -50,8 +47,7 @@
       "nationality": "German"
     },
     {
-      "driverRef": "Latifi",
-      "number": 6.0,
+      "number": 6,
       "code": "LAT",
       "forename": "Nicholas",
       "surname": "Latifi",
@@ -59,8 +55,7 @@
       "nationality": "Canadian"
     },
     {
-      "driverRef": "Mazepin",
-      "number": 9.0,
+      "number": 9,
       "code": "MAZ",
       "forename": "Nikita",
       "surname": "Mazepin",
@@ -68,8 +63,7 @@
       "nationality": "Russian"
     },
     {
-      "driverRef": "Gasly",
-      "number": 10.0,
+      "number": 10,
       "code": "GAS",
       "forename": "Pierre",
       "surname": "Gasly",
@@ -77,8 +71,7 @@
       "nationality": "French"
     },
     {
-      "driverRef": "Perez",
-      "number": 11.0,
+      "number": 11,
       "code": "PER",
       "forename": "Sergio",
       "surname": "Perez",
@@ -86,8 +79,7 @@
       "nationality": "Mexican"
     },
     {
-      "driverRef": "Alonso",
-      "number": 14.0,
+      "number": 14,
       "code": "ALO",
       "forename": "Fernando",
       "surname": "Alonso",
@@ -95,8 +87,7 @@
       "nationality": "Spanish"
     },
     {
-      "driverRef": "Leclerc",
-      "number": 16.0,
+      "number": 16,
       "code": "LEC",
       "forename": "Charles",
       "surname": "Leclerc",
@@ -104,8 +95,7 @@
       "nationality": "Monegasque"
     },
     {
-      "driverRef": "Stroll",
-      "number": 18.0,
+      "number": 18,
       "code": "STR",
       "forename": "Lance",
       "surname": "Stroll",
@@ -113,8 +103,7 @@
       "nationality": "Canadian"
     },
     {
-      "driverRef": "Tsunoda",
-      "number": 22.0,
+      "number": 22,
       "code": "TSU",
       "forename": "Yuki",
       "surname": "Tsunoda",
@@ -122,8 +111,7 @@
       "nationality": "Japanese"
     },
     {
-      "driverRef": "Albon",
-      "number": 23.0,
+      "number": 23,
       "code": "ALB",
       "forename": "Alexander",
       "surname": "Albon",
@@ -131,8 +119,7 @@
       "nationality": "Thai"
     },
     {
-      "driverRef": "Ocon",
-      "number": 31.0,
+      "number": 31,
       "code": "OCO",
       "forename": "Esteban",
       "surname": "Ocon",
@@ -140,8 +127,7 @@
       "nationality": "French"
     },
     {
-      "driverRef": "Verstappen",
-      "number": 1.0,
+      "number": 1,
       "code": "VER",
       "forename": "Max",
       "surname": "Verstappen",
@@ -149,8 +135,7 @@
       "nationality": "Dutch"
     },
     {
-      "driverRef": "Hamilton",
-      "number": 44.0,
+      "number": 44,
       "code": "HAM",
       "forename": "Lewis",
       "surname": "Hamilton",
@@ -158,8 +143,7 @@
       "nationality": "British"
     },
     {
-      "driverRef": "Schumacher",
-      "number": 47.0,
+      "number": 47,
       "code": "MSC",
       "forename": "Mick",
       "surname": "Schumacher",
@@ -167,8 +151,7 @@
       "nationality": "German"
     },
     {
-      "driverRef": "Sainz",
-      "number": 55.0,
+      "number": 55,
       "code": "SAI",
       "forename": "Carlos",
       "surname": "Sainz",
@@ -176,8 +159,7 @@
       "nationality": "Spanish"
     },
     {
-      "driverRef": "Russell",
-      "number": 63.0,
+      "number": 63,
       "code": "RUS",
       "forename": "George",
       "surname": "Russell",
@@ -185,8 +167,7 @@
       "nationality": "British"
     },
     {
-      "driverRef": "Bottas",
-      "number": 77.0,
+      "number": 77,
       "code": "BOT",
       "forename": "Valtteri",
       "surname": "Bottas",
@@ -194,8 +175,7 @@
       "nationality": "Finnish"
     },
     {
-      "driverRef": "Zhou",
-      "number": null,
+      "number": 0,
       "code": "ZHO",
       "forename": "Guanyu",
       "surname": "Zhou",
