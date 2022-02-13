@@ -20,7 +20,7 @@ d3.json(`samples.json`).then((data) => {
 
     // Clear HTML
     sampleData.html("");
-
+  }
   //Function To Set Starting Page
   function init() {
     // Get First Metadata
