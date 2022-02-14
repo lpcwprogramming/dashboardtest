@@ -27,10 +27,10 @@ d3.json(`samples.json`).then((data) => {
     var firstMetadata = data.metadata[0];
 
     // Get First Sample
-    var firstSample = data.samples[0];
+    // var firstSample = data.samples[0];
 
     // Set Starting Page
-    updatePage(firstMetadata, firstSample);
+    updatePage(firstMetadata);
 
     // Update Page on New Input
     d3.selectAll("#selDataset").on("change", function () {
@@ -38,10 +38,10 @@ d3.json(`samples.json`).then((data) => {
       var meta = data.metadata.find((d) => d.id == this.value);
 
       // Update Sample
-      var samp = data.samples.find((d) => d.id == this.value);
+      // var samp = data.samples.find((d) => d.id == this.value);
 
       // Deploy Function
-      updatePage(meta, samp);
+      updatePage(meta);
     });
   }
   // Deploy Functon
